@@ -12,9 +12,9 @@ public class LaunchBalle {
 		
 		//Initialisation Ê
 		Espace esp = new Espace();
-		Balle b1= new Balle(15, 55, 82, 23, 2, 0.9);
-		Balle b2= new Balle(10, 45, -53, -30, 2, 0.9);
-		Balle b3= new Balle(1, 32, -43, -15, 2, 0.9);
+		Balle b1= new Balle(15, 55, 454, 232, 2, 0.9);
+		Balle b2= new Balle(10, 45, -102, -432, 2, 0.9);
+		Balle b3= new Balle(1, 32, -403, -150, 2, 0.9);
 
 		
 		//dessin 
